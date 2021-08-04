@@ -4,9 +4,9 @@ title: "Data Visualizations"
 permalink: /datavisualizations/
 ---
 
-![Gradient Boosting](Desktop/capstone/my-awesome-site/images/GradientBoosting.png){:class="img-responsive"}
+![Gradient Boosting](/images/GradientBoosting.png){:class="img-responsive"}
 
-![Gaussian Process](Desktop/capstone/my-awesome-site/images/GaussianProcess.png){:class="img-responsive"}
+![Gaussian Process](/images/GaussianProcess.png){:class="img-responsive"}
 
 ![XGBoost](/images/XGBoost.png){:class="img-responsive"}
 
