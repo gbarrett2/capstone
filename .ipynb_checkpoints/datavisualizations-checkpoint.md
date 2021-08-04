@@ -5,9 +5,9 @@ permalink: /datavisualizations/
 ---
 
 
-![Point Net](/images/pointnet.png){:class="img-responsive"}
+![Point Net](/images/PointNet.png){:class="img-responsive"}
 
-![Vox Net](/images/voxnet.png){:class="img-responsive"}
+![Vox Net](/images/VoxNet.png){:class="img-responsive"}
 
 ![XGBoost](/images/XGBoost.png){:class="img-responsive"}
 
@@ -21,6 +21,6 @@ permalink: /datavisualizations/
 
 ![AdaBoost](/images/AdaBoost.png){:class="img-responsive"}
 
-![Gradient Boosting](/images/gradientboosting.png){:class="img-responsive"}
+![Gradient Boosting](/images/GradientBoosting.png){:class="img-responsive"}
 
-![Gaussian Process](/images/gaussianprocess.png){:class="img-responsive"}
+![Gaussian Process](/images/GaussianProcess.png){:class="img-responsive"}
