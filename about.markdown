@@ -8,7 +8,7 @@ permalink: /about/
 Sean Andrew Chen 
 
 
-Gabriella Barrett recieved her dual Bachelors of Science in Cartography & Geographical Information Systems and Statistics at the University of Wisconsin-Madison. She is now working towards completing her Masters in the Center for Urban Science and Progress and New York Univeristy.
+Gabriella Barrett recieved her dual Bachelors of Science in Cartography & Geographical Information Systems and Statistics at the University of Wisconsin-Madison. She is now working towards completing her Masters in the Center for Urban Science and Progress at New York Univeristy.
 
 
 Professor Debra Laefer

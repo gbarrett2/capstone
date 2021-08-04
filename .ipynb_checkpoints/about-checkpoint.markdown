@@ -5,6 +5,15 @@ permalink: /about/
 
 ---
 
+Sean Andrew Chen 
+
+
+Gabriella Barrett recieved her dual Bachelors of Science in Cartography & Geographical Information Systems and Statistics at the University of Wisconsin-Madison. She is now working towards completing her Masters in the Center for Urban Science and Progress at New York Univeristy.
+
+
+Professor Debra Laefer
+
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
