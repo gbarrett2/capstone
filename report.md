@@ -1,6 +1,6 @@
 ---
-layout: "page"
-title: "Report"
+layout: page
+title: Report
 permalink: /report/
 ---
 
